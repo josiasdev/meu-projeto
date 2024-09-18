@@ -1,4 +1,8 @@
-body
-{
+body {
     background-color: aquamarine;
+}
+
+.top_table {
+    text-align: center;
+    background-color: skyblue;
 }
